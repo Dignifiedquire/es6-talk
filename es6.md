@@ -1,4 +1,4 @@
-## Features to cover
+# JavaScript ++
 
 ### Fix old Mistakes
 
@@ -10,9 +10,6 @@
 * Modules & Module loader
 * Classes
 * Simpler object literals
-  * short hand function
-  * property value shorthands
-  * computed property keys
 * parameter default values
 * rest parameters
 * spread operator
@@ -22,12 +19,11 @@
 
 ### Completely New
 
-* WeakMap & WeakSet
+* Weak?(Map|Set)
 * Iterators and `for .. of`
 * Generators
 * Symbols
 * Tail call optimization
-* Proxies
 
 ### Better libraries
 
@@ -37,7 +33,6 @@
 * new string methods
 * new array methods
 * new math methods
-
 
 ### ES7 and beyond
 
